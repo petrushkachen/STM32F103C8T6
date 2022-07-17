@@ -9,5 +9,4 @@
 
 ![image03](image03.jpg)
 
-![image04](image04.jpg)
 
